@@ -1,0 +1,14 @@
+*.bak
+*.dll
+*.exe
+*.log
+*.out
+*.so
+*.test
+*.tmp
+
+build/
+dist/
+vendor/
+
+go.work
